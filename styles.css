@@ -1,0 +1,41 @@
+body{
+   font-family: 'Roboto', sans-serif;
+   background-color: #f9f7e8;
+   color: #61bfad;
+   text-align: center;
+   padding: 15px;
+ }
+
+#editor{
+   padding: 20px;
+   width: 80%;
+   height: 60px;
+
+ }
+
+
+
+#preview{
+   width: 80%;
+   margin: auto;
+   padding: 20px;
+   text-align: left;
+   border-style: solid;
+   border-width: 0.5px;
+   border-radius: 15px;
+}
+textarea{
+   border-radius: 15px;
+   border-color: #61bfad;
+   border-style: solid;
+   background-color: #f9f7e8;
+}
+
+/* @media only screen and (max-width: 367px){
+   #editor{
+      width: 90%;
+    }
+   #preview{
+      width: 90%;
+    }
+} */
