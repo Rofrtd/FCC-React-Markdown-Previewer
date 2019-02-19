@@ -9,7 +9,8 @@ It was built using [React](https://facebook.github.io/react/) and [Marked](https
 - When my markdown previewer first loads, the default text in the #editor field should contain valid markdown that represents at least one of each of the following elements: a header (H1 size), a sub header (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text.
 - When my markdown previewer first loads, the default markdown in the #editor field should be rendered as HTML in the #preview element.
 
-[React Markdown Previewer](https://rofrtd.github.io/FCC-React-Markdown-Previewer/)
+[React Markdown Previewer](https://rofrtd.github.io/React-Markdown-Previewer/)
+
 
 ## How To Run FCC Tests
 
